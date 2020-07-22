@@ -8,7 +8,7 @@
 
 
 
-## Growth Mindset
+### Growth Mindset
 
   Imagine the feeling of failure. The part of the long road to success but only if we think about it in a growth mindset way. However, dwelling on failure or lack of success can lead to resentment, hopelessness and shame. Embracing fixed mindset cannot help us grow or transform. We have to defy the odds, overcome our mind and thrives off growth mindset. 
 
@@ -52,7 +52,7 @@
   -**Celebrate Trying**. The root of *growth mindset* start at home, ourselves. Cultivating this skill starts from parents, friends, teacher, co worker, boss, supervisor most important is our own mind. Anywhere we spend most of our environment. Celebrating trying encourage us to develop new skills we're interested in. Doing this will make us learn the skill which also can hep us in everyday life. Mental mindsets must be changed if we are to purse success. The ability to understand our own mindset allow us to experience the benefits that the *growth mindset* gives us. When we can shift away from our *fixed mindset* we our allowing ourself to have the ability to overcome more challenges. This mindfullness growth mindset leads to more successes and experiences.
   
   
-## What is Github?
+### What is Github?
 
    *Github* is one of the essential tools for software engineer. Tools to help people, land a job, things that can help the world. Github lets you create elegant websites as repositories to showcase you portfolio, projects, documentation. Unlike other website there’s a lot of things needed to setup a website. Github doesn’t need database, servers to configure and anyone can use it. You don’t need to know everything about *HTML* to create website. How does it work? It create website’s tied to your name or organization using different branches. Github automatically deploy your website. You can customize, change theme, edit content throughout readme. Github lets you creat great things and share with everyone.
    
