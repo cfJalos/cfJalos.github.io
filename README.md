@@ -12,30 +12,30 @@
  
 **Characteristic of a Fixed Mindset**               
 
--Believes intelligence and talent are fixed.
--Sticks with what they know.
--Believes putting effort is worthless or fruitless.
--believes personal failures define who they are.
--Hides flaws so not to be judged as a failure.
--Avoids challenges to avoid failure.
--Tends to give up easily.
--Ignores feedback from others.
--Views feedback as personal criticism.
--Feels threatened by the success of others.
+*Believes intelligence and talent are fixed.
+*Sticks with what they know.
+*Believes putting effort is worthless or fruitless.
+*Believes personal failures define who they are.
+*Hides flaws so not to be judged as a failure.
+*Avoids challenges to avoid failure.
+*Tends to give up easily.
+*Ignores feedback from others.
+*Views feedback as personal criticism.
+*Feels threatened by the success of others.
 
 **Characteristic of a Growth Mindset**
 
--Believes intelligence and talents can be developed.
--Believes effort is the path to mastery.
--Believes effort is the path to mastery.
--Believes mistakes are and essential part of learning.
--Views failure as an opportunity to learn.
--Believes failures are just temporary setbacks.
--Embraces challenges.
--Welcomes feedback from others in order to learn.
--Believes feedback is a guide to further improvement.
--Views feedback as a source of information.
--Views others success as a source of inspiration and information.
+*Believes intelligence and talents can be developed.
+*Believes effort is the path to mastery.
+*Believes effort is the path to mastery.
+*Believes mistakes are and essential part of learning.
+*Views failure as an opportunity to learn.
+*Believes failures are just temporary setbacks.
+*Embraces challenges.
+*Welcomes feedback from others in order to learn.
+*Believes feedback is a guide to further improvement.
+*Views feedback as a source of information.
+*Views others success as a source of inspiration and information.
 
 ### Develop Growth Mindset
   
