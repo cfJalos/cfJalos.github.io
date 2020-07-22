@@ -1,37 +1,50 @@
 # Growth Mindset
 
-Imagine the feeling of failure. The part of the long road to success but only if we think about it in a growth mindset way. However, dwelling on failure or lack of success can lead to resentment, hopelessness and shame. Embracing fixed mindset cannot help us grow or transform. We have to defy the odds, overcome our mind and thrives off growth mindset.
+  Imagine the feeling of failure. The part of the long road to success but only if we think about it in a growth mindset way. However, dwelling on failure or lack of success can lead to resentment, hopelessness and shame. Embracing fixed mindset cannot help us grow or transform. We have to defy the odds, overcome our mind and thrives off growth mindset. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ~Growth Mindset~ **vs** Fixed Mindset~
 
-```markdown
-Syntax highlighted code block
+  In ~Growth Mindset~ there two types we can cultivate. One that view problems as oppurtunity to improve certain skill and learn from it, and one that avoids it at all cost out of fear of failure. People that avoids problem or conflicts can be described as possesing a ~fixed mindset~. Those who look at problems and gain interest from facing challenges have a ~growth mindset~. Occasionally we like to switch from one another depends on which on is substantial.
 
-# Header 1
-## Header 2
-### Header 3
+  ~Fixed mindset~ assumes that basic traits like intelligence and talents are fixed qualities are the sole reason for success. They don't look past the challenges thinking that they dont posses the skill or talent to accomplish the task in hand and completely just avoiding it. With ~growth mindset~ people, they belive that they can achieve new skills and abilities by thriving through challenges and countless failure. This way of thinking creates a love for learning. Most iconic persona have this traits in common. For them life becomes more joyful journey with endless oppurtunity to figure out new things and advance in life.
+ 
+**Characteristic of a Fixed Mindset**               
 
-- Bulleted
-- List
+-Believes intelligence and talent are fixed.
+-Sticks with what they know.
+-Believes putting effort is worthless or fruitless.
+-believes personal failures define who they are.
+-Hides flaws so not to be judged as a failure.
+-Avoids challenges to avoid failure.
+-Tends to give up easily.
+-Ignores feedback from others.
+-Views feedback as personal criticism.
+-Feels threatened by the success of others.
 
-1. Numbered
-2. List
+**Characteristic of a Growth Mindset**
 
-**Bold** and _Italic_ and `Code` text
+-Believes intelligence and talents can be developed.
+-Believes effort is the path to mastery.
+-Believes effort is the path to mastery.
+-Believes mistakes are and essential part of learning.
+-Views failure as an opportunity to learn.
+-Believes failures are just temporary setbacks.
+-Embraces challenges.
+-Welcomes feedback from others in order to learn.
+-Believes feedback is a guide to further improvement.
+-Views feedback as a source of information.
+-Views others success as a source of inspiration and information.
 
-[Link](url) and ![Image](src)
-```
+### Develop Growth Mindset
+  
+  -**Celebrate Trying**. The root of ~growth mindset~ start at home, ourselves. Cultivating this skill starts from parents, friends, teacher, co worker, boss, supervisor most important is our own mind. Anywhere we spend most of our environment. Celebrating trying encourage us to develop new skills we're interested in. Doing this will make us learn the skill which also can hep us in everyday life. Mental mindsets must be changed if we are to purse success. The ability to understand our own mindset allow us to experience the benefits that the ~growth mindset~ gives us. When we can shift away from our ~fixed mindset~ we our allowing ourself to have the ability to overcome more challenges. This mindfullness growth mindset leads to more successes and experiences.
+  
+  
+  
+### Who am I
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  My name is Czarl Jalos. I recently just got out of the Military as Aviation Support Technician, I served for 8 years. I've been wanting to pursue the career of Software Engineering since I was young. I'm currently residing in Tacoma, WA. I'm excited to learn as much as i can with this course to jump start my career as Software Engineer. See you in my [Github page](https://github.com/cfJalos).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cfJalos/cfJalos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
