@@ -60,48 +60,7 @@
 
    Markdown is a way to style a text on the web. When we think of Markdown we can visualize it just like cooking. It’s how you want your steak to be cooked. You can control how much serving you want,  medium, rare, of well done, how much pepper or seasoning, you can add asparagus on the side. When it comes to or in relate to markdown you can control the display of the document/serving steak, you can format the words as bold or italic/ rare or well done in steak, you can also create a listing/ seasoning of pepper or salt, and last important thing you can add images just like the sides on your steak dish. 
 
-*Here’s an overview of Markdown syntax you can use anywhere on Github or in our own text files.*
 
-Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-Emphasis
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-Lists
-Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-Ordered
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-Images
-/![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-Links
-/http://github.com - automatic!
-[GitHub](http://github.com)
-
-Block-quotes
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-Inline code
-you should use an
-`<addr>` element here instead.   
   
   
 
