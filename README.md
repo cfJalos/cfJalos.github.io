@@ -53,7 +53,7 @@
   
 ## What is Github?
 
-   *Github* is one of the essential tools for software engineer. Tools to help people, land a job, things that can help the world. Github lets you create elegant websites as repositories to showcase you portfolio, projects, documentation. Unlike other website there’s a lot of things needed to setup a website. Github doesn’t need database, servers to configure and anyone can use it. You don’t need to know everything about HTML to create website. How does it work? It create website’s tied to your name or organization using different branches. Github automatically deploy your website. You can customize, change theme, edit content throughout readme. Github lets you creat great things and share with everyone.
+   *Github* is one of the essential tools for software engineer. Tools to help people, land a job, things that can help the world. Github lets you create elegant websites as repositories to showcase you portfolio, projects, documentation. Unlike other website there’s a lot of things needed to setup a website. Github doesn’t need database, servers to configure and anyone can use it. You don’t need to know everything about *HTML* to create website. How does it work? It create website’s tied to your name or organization using different branches. Github automatically deploy your website. You can customize, change theme, edit content throughout readme. Github lets you creat great things and share with everyone.
    
    
 ## What is Markdown?
