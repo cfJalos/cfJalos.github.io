@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/cfJalos/cfJalos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Imagine the feeling of failure. The part of the long road to success but only if we think about it in a growth mindset way. However, dwelling on failure or lack of success can lead to resentment, hopelessness and shame. Embracing fixed mindset cannot help us grow or transform. We have to defy the odds, overcome our mind and thrives off growth mindset.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
