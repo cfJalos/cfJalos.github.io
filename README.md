@@ -4,11 +4,11 @@
 
 
 
-### ~Growth Mindset~ **vs** Fixed Mindset~
+### *Growth Mindset* vs *Fixed Mindset*
 
-  In ~Growth Mindset~ there two types we can cultivate. One that view problems as oppurtunity to improve certain skill and learn from it, and one that avoids it at all cost out of fear of failure. People that avoids problem or conflicts can be described as possesing a ~fixed mindset~. Those who look at problems and gain interest from facing challenges have a ~growth mindset~. Occasionally we like to switch from one another depends on which on is substantial.
+  In *Growth Mindset* there two types we can cultivate. One that view problems as oppurtunity to improve certain skill and learn from it, and one that avoids it at all cost out of fear of failure. People that avoids problem or conflicts can be described as possesing a *fixed mindset*. Those who look at problems and gain interest from facing challenges have a *growth mindset*. Occasionally we like to switch from one another depends on which on is substantial.
 
-  ~Fixed mindset~ assumes that basic traits like intelligence and talents are fixed qualities are the sole reason for success. They don't look past the challenges thinking that they dont posses the skill or talent to accomplish the task in hand and completely just avoiding it. With ~growth mindset~ people, they belive that they can achieve new skills and abilities by thriving through challenges and countless failure. This way of thinking creates a love for learning. Most iconic persona have this traits in common. For them life becomes more joyful journey with endless oppurtunity to figure out new things and advance in life.
+  *Fixed mindset* assumes that basic traits like intelligence and talents are fixed qualities are the sole reason for success. They don't look past the challenges thinking that they dont posses the skill or talent to accomplish the task in hand and completely just avoiding it. With *growth mindset* people, they belive that they can achieve new skills and abilities by thriving through challenges and countless failure. This way of thinking creates a love for learning. Most iconic persona have this traits in common. For them life becomes more joyful journey with endless oppurtunity to figure out new things and advance in life.
  
 **Characteristic of a Fixed Mindset**               
 
@@ -39,12 +39,12 @@
 
 ### Develop Growth Mindset
   
-  -**Celebrate Trying**. The root of ~growth mindset~ start at home, ourselves. Cultivating this skill starts from parents, friends, teacher, co worker, boss, supervisor most important is our own mind. Anywhere we spend most of our environment. Celebrating trying encourage us to develop new skills we're interested in. Doing this will make us learn the skill which also can hep us in everyday life. Mental mindsets must be changed if we are to purse success. The ability to understand our own mindset allow us to experience the benefits that the ~growth mindset~ gives us. When we can shift away from our ~fixed mindset~ we our allowing ourself to have the ability to overcome more challenges. This mindfullness growth mindset leads to more successes and experiences.
+  -**Celebrate Trying**. The root of *growth mindset* start at home, ourselves. Cultivating this skill starts from parents, friends, teacher, co worker, boss, supervisor most important is our own mind. Anywhere we spend most of our environment. Celebrating trying encourage us to develop new skills we're interested in. Doing this will make us learn the skill which also can hep us in everyday life. Mental mindsets must be changed if we are to purse success. The ability to understand our own mindset allow us to experience the benefits that the *growth mindset* gives us. When we can shift away from our *fixed mindset* we our allowing ourself to have the ability to overcome more challenges. This mindfullness growth mindset leads to more successes and experiences.
   
   
   
 ### Who am I
 
-  My name is Czarl Jalos. I recently just got out of the Military as Aviation Support Technician, I served for 8 years. I've been wanting to pursue the career of Software Engineering since I was young. I'm currently residing in Tacoma, WA. I'm excited to learn as much as i can with this course to jump start my career as Software Engineer. See you in my [Github page](https://github.com/cfJalos).
+  My name is Czarl Jalos. I recently just got out of the Military as Aviation Support Technician, I served for 8 years. I've been wanting to pursue the career of Software Engineering since I was young. I'm currently residing in Tacoma, WA and a Software Engineer student in Code Fellows. See you in my [Github page](https://github.com/cfJalos).
 
 
