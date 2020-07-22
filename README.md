@@ -1,4 +1,13 @@
-# Growth Mindset
+## About me
+
+  My name is Czarl Jalos. I recently just got out of the Military as Aviation Support Technician, I served for 8 years. I've been wanting to pursue the career of Software Engineering since I was young. I'm currently residing in Tacoma, WA and a Software Engineer student in Code Fellows. See you in my [Github page](https://github.com/cfJalos).
+
+
+# Reading notes  
+
+
+
+## Growth Mindset
 
   Imagine the feeling of failure. The part of the long road to success but only if we think about it in a growth mindset way. However, dwelling on failure or lack of success can lead to resentment, hopelessness and shame. Embracing fixed mindset cannot help us grow or transform. We have to defy the odds, overcome our mind and thrives off growth mindset. 
 
@@ -42,9 +51,59 @@
   -**Celebrate Trying**. The root of *growth mindset* start at home, ourselves. Cultivating this skill starts from parents, friends, teacher, co worker, boss, supervisor most important is our own mind. Anywhere we spend most of our environment. Celebrating trying encourage us to develop new skills we're interested in. Doing this will make us learn the skill which also can hep us in everyday life. Mental mindsets must be changed if we are to purse success. The ability to understand our own mindset allow us to experience the benefits that the *growth mindset* gives us. When we can shift away from our *fixed mindset* we our allowing ourself to have the ability to overcome more challenges. This mindfullness growth mindset leads to more successes and experiences.
   
   
-  
-### Who am I
+## What is Github?
 
-  My name is Czarl Jalos. I recently just got out of the Military as Aviation Support Technician, I served for 8 years. I've been wanting to pursue the career of Software Engineering since I was young. I'm currently residing in Tacoma, WA and a Software Engineer student in Code Fellows. See you in my [Github page](https://github.com/cfJalos).
+   *Github* is one of the essential tools for software engineer. Tools to help people, land a job, things that can help the world. Github lets you create elegant websites as repositories to showcase you portfolio, projects, documentation. Unlike other website there’s a lot of things needed to setup a website. Github doesn’t need database, servers to configure and anyone can use it. You don’t need to know everything about HTML to create website. How does it work? It create website’s tied to your name or organization using different branches. Github automatically deploy your website. You can customize, change theme, edit content throughout readme. Github lets you creat great things and share with everyone.
+   
+   
+## What is Markdown?
+
+		Markdown is a way to style a text on the web. When we think of Markdown we can visualize it just like cooking. It’s how you want your steak to be cooked. You can control how much serving you want,  medium, rare, of well done, how much pepper or seasoning, you can add asparagus on the side. When it comes to or in relate to markdown you can control the display of the document/serving steak, you can format the words as bold or italic/ rare or well done in steak, you can also create a listing/ seasoning of pepper or salt, and last important thing you can add images just like the sides on your steak dish. 
+
+*Here’s an overview of Markdown syntax you can use anywhere on Github or in our own text files.*
+
+Headers
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+Emphasis
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+Lists
+Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+Block-quotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+Inline code
+I think you should use an
+`<addr>` element here instead.   
+  
+  
+
 
 
