@@ -16,9 +16,9 @@
 
 ### *Growth Mindset* vs *Fixed Mindset*
 
-  In *Growth Mindset* there two types we can cultivate. One that view problems as oppurtunity to improve certain skill and learn from it, and one that avoids it at all cost out of fear of failure. People that avoids problem or conflicts can be described as possesing a *fixed mindset*. Those who look at problems and gain interest from facing challenges have a *growth mindset*. Occasionally we like to switch from one another depends on which on is substantial.
+  In *Growth Mindset* there two types we can cultivate. One that view problems as opportunity to improve certain skill and learn from it, and one that avoids it at all cost out of fear of failure. People that avoids problem or conflicts can be described as possessing a *fixed mindset*. Those who look at problems and gain interest from facing challenges have a *growth mindset*. Occasionally we like to switch from one another depends on which on is substantial.
 
-  *Fixed mindset* assumes that basic traits like intelligence and talents are fixed qualities are the sole reason for success. They don't look past the challenges thinking that they dont posses the skill or talent to accomplish the task in hand and completely just avoiding it. With *growth mindset* people, they belive that they can achieve new skills and abilities by thriving through challenges and countless failure. This way of thinking creates a love for learning. Most iconic persona have this traits in common. For them life becomes more joyful journey with endless oppurtunity to figure out new things and advance in life.
+  *Fixed mindset* assumes that basic traits like intelligence and talents are fixed qualities are the sole reason for success. They don't look past the challenges thinking that they don't posses the skill or talent to accomplish the task in hand and completely just avoiding it. With *growth mindset* people, they believe that they can achieve new skills and abilities by thriving through challenges and countless failure. This way of thinking creates a love for learning. Most iconic persona have this traits in common. For them life becomes more joyful journey with endless opportunity to figure out new things and advance in life.
  
 **Characteristic of a Fixed Mindset**               
 
