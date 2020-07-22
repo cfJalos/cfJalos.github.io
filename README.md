@@ -12,7 +12,7 @@
  
 **Characteristic of a Fixed Mindset**               
 
-*Believes intelligence and talent are fixed.
+* Believes intelligence and talent are fixed.
 * Sticks with what they know.
 * Believes putting effort is worthless or fruitless.
 * Believes personal failures define who they are.
