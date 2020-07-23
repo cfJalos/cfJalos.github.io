@@ -1,13 +1,14 @@
-## GIT INTRO ##
+[Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
+
+## Intro to Git##
 
 ### WHAT IS GITHUB? ###
 
-### HISTORY ###
+**HISTORY**
 
-* Originally launched as Logical Awesome in 2008; launch GitHub product later 		that year.
-* Previously: no place on the web to publish and pull code from for open source 			projects
-* Had version control, but only locally
-
+* Originally launched as Logical Awesome in 2008; launch GitHub product later that year.
+* Previously: no place on the web to publish and pull code from for open source projects.
+* Had version control, but only locally.
 * Rapid adoption by enterprise companies between 2009-2013. 
 * June 2018: Microsoft announces acquisition of GitHub for $7.5 billion dollars. 
 
@@ -84,7 +85,7 @@ To determine the state of files, utilize the git status command:
 
 ### Staging files ###
 From the project folder, we can use the git add command to add our files to the staging area, which allows them to be tracked.
-We can add a specific file to the staging area with the following command
+We can add a specific file to the staging area with the following command:
 * git add file.js
 To add multiple files, we can do this:
 * git add file.js file2.js file3.js
@@ -122,14 +123,3 @@ $ cd example
 
 * $ git remote -v
 
-remote1 https://github.com/remote1/example (fetch)
-
-remote1 https://github.com/remote1/example (push)
-
-remote2 https://github.com/remote2/example (fetch)
-
-remote2 https://github.com/remote2/example (push)
-
-remote3 https://github.com/remote3/example (fetch)
-
-remote3 https://github.com/remote3/example (push)
