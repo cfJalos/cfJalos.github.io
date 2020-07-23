@@ -1,3 +1,5 @@
+[Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
+
 ## Growth Mindset ##
 
   Imagine the feeling of failure. The part of the long road to success but only if we think about it in a growth mindset way. However, dwelling on failure or lack of success can lead to resentment, hopelessness and shame. Embracing fixed mindset cannot help us grow or transform. We have to defy the odds, overcome our mind and thrives off growth mindset. 
