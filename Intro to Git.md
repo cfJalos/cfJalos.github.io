@@ -1,6 +1,6 @@
 [Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
 
-## Intro to Git##
+## Intro to Git ##
 
 ### WHAT IS GITHUB? ###
 
