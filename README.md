@@ -87,19 +87,19 @@ Basic Navigation
   * This command shows the current user who is logged in.
   
 *pwd*
-	* Print Working Directory-ie. Where are we currently.
+  * Print Working Directory-ie. Where are we currently.
   
 *ls*
-	* List the contents of a directory.
+  * List the contents of a directory.
   
 *cd*
-	* Change Directories - ie. move to another directory.
+  * Change Directories - ie. move to another directory.
 
 *Relative path*
-	* A file or directory location relative to where we currently are in the file system.
+  * A file or directory location relative to where we currently are in the file system.
 
 *Absolute path*
-	*A file or directory location in relation to the root of the file system.
+  *A file or directory location in relation to the root of the file system.
 
 
 ### FILES ###
@@ -123,6 +123,6 @@ obtain information about what type of file a file or directory is.
 *ls -a*
 List the contents of a directory, including hidden files.
 
-*Everything is a file under Linux	Even directories.*
+*Everything is a file under Linux Even directories.*
 
 *Linux is an extension less system Files can have any extension they like or none at all.*
