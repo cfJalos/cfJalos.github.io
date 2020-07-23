@@ -6,7 +6,7 @@
 
 
 
-### Growth Mindset* vs Fixed Mindset ###
+### Growth Mindset vs Fixed Mindset ###
 
   In *Growth Mindset* there two types we can cultivate. One that view problems as opportunity to improve certain skill and learn from it, and one that avoids it at all cost out of fear of failure. People that avoids problem or conflicts can be described as possessing a *fixed mindset*. Those who look at problems and gain interest from facing challenges have a *growth mindset*. Occasionally we like to switch from one another depends on which on is substantial.
 
