@@ -12,7 +12,7 @@
 
 * Read03 : [Intro to Git](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20Git)
 
-* Lab03  : [Stretched Goals](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Stretched%20Goals)
+* Lab03  : [Stretch Goals](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Stretched%20Goals)
 
 
 
