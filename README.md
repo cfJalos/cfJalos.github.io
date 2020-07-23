@@ -6,11 +6,13 @@
 
 * Lab01b : [Learning Growth Mindset](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Growth%20Mindset)
 
-* Read01 : [Mastering Markdown](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Learning%20Markdown)
+* Read01 : [Learning Markdown](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Learning%20Markdown)
 
 * Read02 : [Coders Computer](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Coders%20Computer)
 
 * Read03 : [Intro to Git](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20Git)
+
+* Lab03  : [Stretched Goals](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Stretched%20Goals)
 
 
 
