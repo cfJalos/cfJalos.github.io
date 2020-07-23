@@ -1,3 +1,5 @@
+[Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
+
 ## Coder’s computer
 
 ### What is text editor?
@@ -18,18 +20,12 @@
 			
 
 Basic Navigation
-
-*whoami* 
-  * This command shows the current user who is logged in.
-  
-*pwd*
-  * Print Working Directory-ie. Where are we currently.
-  
-*ls*
-  * List the contents of a directory.
-  
-*cd*
-  * Change Directories - ie. move to another directory.
+| Command | 				Description 				 |
+|---------|   		 		  :----:				 |
+|whoami   | 	This command shows the current user who is logged in.		 |
+|pwd	  |	Print Working Directory-ie. Where are we currently.		 |
+|ls	  |	List the contents of a directory.				 | 
+|cd	  |     Change Directories - ie. move to another directory.		 |
 
 *Relative path*
   * A file or directory location relative to where we currently are in the file system.
