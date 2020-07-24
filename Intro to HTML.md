@@ -3,11 +3,11 @@
 
 ## Intro to HTML ##
 
-[EOF]
+
 
 ### History of HTML ###
 
-[EOF]
+
 
 * Created in 1989/1990
 * Allowed publishing and exchanging of scientific  and technical documents
@@ -15,71 +15,71 @@
 
 ### The General Rule ###
 
-[E0F]
 
-<tagName> Some Content </tagName>
+
+//<tagName> Some Content </tagName>
 
 ### Every HTML document we create will start with this boilerplate ###
 
-[E0F]
 
-<!DOCTYPE html>
-<html>
-<head>
-<!-- Our metadata goes here -->
-  <title></title>
-</head>
-<body>
 
-<!-- Our content goes here -->
+//<!DOCTYPE html>
+//<html>
+//<head>
+//<!-- Our metadata goes here -->
+//  <title></title>
+//</head>
+//<body>
 
-</body>
-</html>
+//<!-- Our content goes here -->
+
+//</body>
+//</html>
 
 ### Comments ###
 
-[E0F]
-<!-- This is a comment.  It doesn't do anything! -->
+
+//<!-- This is a comment.  It doesn't do anything! -->
 
 ### Common Tags ###
 
-[E0F]
 
-> <h1>I'm a header </h1>
-> <h2>I'm a slightly smaller header </h2>
-> <h6>I'm the smallest header </h6>
 
-> <p>I'm a paragraph</p>
+> //<h1>I'm a header </h1>
+> //<h2>I'm a slightly smaller header </h2>
+> //<h6>I'm the smallest header </h6>
 
-> <button>I'm a button!</button>
+> //<p>I'm a paragraph</p>
 
-> <ul>
-> 	<li>List Item 1</li>
-> 	<li>List Item 2</li>
-> </ul>
+> //<button>I'm a button!</button>
 
-> <ol>
-> 	<li>List Item 1</li>
->	<li>List Item 2</li>
-> </ol>
+> //<ul>
+> //	<li>List Item 1</li>
+> //	<li>List Item 2</li>
+> //</ul>
+
+> //<ol>
+> //	<li>List Item 1</li>
+> //	<li>List Item 2</li>
+> //</ol>
 
 * [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### Attributes ### 
 Adding Additional Information To Tags
 
-> <tag name="value"></tag>
-> <img src="corgi.png">
+> //<tag name="value"></tag>
+> //<img src="corgi.png">
 
-> <p class="selected">woof woof</p>
+> //<p class="selected">woof woof</p>
 
-> <a href="www.google.com">Click me to go to Google</a>
+> //<a href="www.google.com">Click me to go to Google</a>
 
-> <link rel="stylesheet" type="text/css" href="style.css">
+> //<link rel="stylesheet" type="text/css" href="style.css">
 
 ### Grouping text and Elements in a block ###
 
-[E0F]
+
 
 The <div> element allows you to group a set of elements together in one block level box.
 
@@ -88,25 +88,25 @@ The <span> element acts like an inline equivalent of the <div> element.
 
 ### NAVIGATION ###
 
-[E0F]
+
 
 The <navy> element is used to contain the major navigational blocks on the site such as the primary site navigation.
 
 ### Article ###
 
-[E0F]
+
 
 The <article> element act as a container for any selection of a page that could stand alone and potentially be syndicated.
 
 ### Aside ##
 
-[E0F]
+
 
 The <aside> element has two purposes, depending on whether it is inside an <article> element or not.
 
 ### Sections ###
 
-[E0F]
+
 
 The <section> element groups related content together and typically each section would have its own heading.
 
@@ -117,24 +117,24 @@ The purpose of the <hgroup> element is to groyp together a set of one or more he
 
 ### MDN Attribute Reference ###
 
-[E0F]
+
 
 ### Images ###
 
-[E0F]
 
-> <img src="corgi.png">
+
+> //<img src="corgi.png">
 
 ### Links ###
 
-[E0F]
 
-<a href="url">Link Text</a
+
+//<a href="url">Link Text</a
 
 ### Iframes ###
 
-[E0F]
 
-> <iframe>
+
+>// <iframe>
 
 An iframe is like a little window that has been cut into your page and in that window you can see another page. The term iframe is an abbreviation of inline frame.
