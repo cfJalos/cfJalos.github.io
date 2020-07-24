@@ -135,6 +135,6 @@ The purpose of the <hgroup> element is to groyp together a set of one or more he
 
 
 
->// <iframe>
+> <iframe>
 
 An iframe is like a little window that has been cut into your page and in that window you can see another page. The term iframe is an abbreviation of inline frame.
