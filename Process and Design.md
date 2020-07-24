@@ -7,9 +7,9 @@
 Understand the audience your site may attract and what information they will expect to find on it. Every website should be designed for the target audience- not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 
 After knowing who are visitor our site. Ask ourselves why are they coming. Most people will visit for a very specific reason.
-	* Are they looking for general entertainment or do they need to achieve a specific goal?
-	* If there is a specific goal, is it a personal or professional one? 
-	*  Do they see spending time on this activity as essential or a luxyry?
+* Are they looking for general entertainment or do they need to achieve a specific goal?
+* If there is a specific goal, is it a personal or professional one? 
+* Do they see spending time on this activity as essential or a luxyry?
 
 Now that we know who is coming to our site and why they are coming, work out on what information they need in order to achieve their goals quickly and effectively.
 
