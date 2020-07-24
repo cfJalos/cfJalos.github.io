@@ -16,6 +16,8 @@
 
 * Read04 : [Intro to HTML](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20HTML)
 
+* Read04 : [Process and Design](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Process%20and%20Design)
+
 
   
 
