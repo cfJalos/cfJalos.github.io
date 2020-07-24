@@ -14,6 +14,7 @@
 
 * Lab03  : [Stretch Goals](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Stretched%20Goals)
 
+* Read04 : [Intro to HTML](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20HTML)
 
 
   
