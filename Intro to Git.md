@@ -49,7 +49,7 @@ To import an existing project or directory into Git, follow these steps using th
 
 Switch to the target project’s directoryExample:
 * I $ cd test (cd = change directory)
-Use the git init command$ git init Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced. 
+Use the git init command$ git init Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 To start tracking these repository files, perform an initial commit by typing the following
 * I $ git add *.c
 * $ git add LICENSE
