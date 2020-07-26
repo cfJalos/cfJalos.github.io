@@ -36,6 +36,7 @@ h3 {
 ### RGB ###
 
 * 3 channels: Red, Green, and Blue.  Each ranges from 0 - 255
+
 ```css
 h1 {
   color: rgb(0,255,0);
