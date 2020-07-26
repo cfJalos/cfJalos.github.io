@@ -18,7 +18,8 @@ h3 {
 ### Hexadecimal ###
 
 * # + String of 6 hexadecimal numbers(from 0-F)
-```css
+
+```html
 h1 {
   color: #000000;
 }
@@ -31,6 +32,7 @@ h3 {
   color: #FF1493;
 }
 ```
+
 ### RGB ###
 
 * 3 channels: Red, Green, and Blue.  Each ranges from 0 - 255
