@@ -18,7 +18,9 @@
 
 * Read04 : [Process and Design](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Process%20and%20Design)
 
+* Read05 : [Intro to CSS](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20CSS)
 
+* Read05 : [CSS in Colors](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Colors%20in%20CSS)
   
 
   
