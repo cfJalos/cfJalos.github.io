@@ -6,6 +6,7 @@
 * Cascading Style Sheets
 
 ### The General Rule ###
+
 ```css
 selector {
   property: value;
@@ -15,6 +16,7 @@ selector {
 ### Where do we write our styles? ###
 
 * Inline
+
 ```css
 <h3 style="color: pink;">blah blah blah </h3>
 <h3 style="color: pink;">knock knock </h3>
@@ -22,6 +24,7 @@ selector {
 ```
 
 * Style
+
 ```css
 <html>
 <head>
@@ -36,6 +39,7 @@ selector {
 
 *CSS in a separate CSS file
 Using the <link> tag
+
 ```css
 <!DOCTYPE html>
 <html>
@@ -48,9 +52,10 @@ Using the <link> tag
 </body>
 </html>
 ```
+
 In our app.css file:
 
-```css'
+```css
 h1 {
   color: purple;
 }
@@ -58,7 +63,7 @@ h1 {
 h3 {
  color: pink;
 }
-```css
+```
 
 ### Closing Tags ###
 ```html
@@ -68,6 +73,7 @@ h3 {
 ```
 
 ### Self-Closing Tags ###
+
 ```html
 <!-- No closing tag or inner text needed -->
 
@@ -79,6 +85,7 @@ h3 {
 ```
 
 ### Attributes ###
+
 ```html
 <tag name="value"></tag>
 
