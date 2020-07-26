@@ -1,3 +1,6 @@
+[Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
+
+
 ## Colors in CSS ##
 
 ### Built in Colors ###
