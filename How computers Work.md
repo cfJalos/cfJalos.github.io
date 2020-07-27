@@ -1,4 +1,6 @@
-## How computers work ##
+[Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
+
+# How computers work ##
 
 ### What is a computer ###
 
