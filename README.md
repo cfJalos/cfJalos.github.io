@@ -22,6 +22,9 @@
 
 * Read05 : [CSS in Colors](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Colors%20in%20CSS)
   
+* Read06a : [Intro to Javascript](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20Javascript)
+
+* Read06b : [How computers work](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/How%20computers%20Work);
 
   
   
