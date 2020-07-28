@@ -1,4 +1,5 @@
 [Home page](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/)
+
 ## Comparison and Logical Operators ##
 
 ### Boolean Logic ###
