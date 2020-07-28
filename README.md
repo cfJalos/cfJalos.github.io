@@ -24,7 +24,9 @@
   
 * Read06a : [Intro to Javascript](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Intro%20to%20Javascript)
 
-* Read06b : [How computers work](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/How%20computers%20Work);
+* Read06b : [How computers work](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/How%20computers%20Work)
+
+* Read07  : [Javascript Basics](https://cfjalos.github.io/cfJalos.github.io-reading-notes-/Javascript%20Basic)
 
   
   
